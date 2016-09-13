@@ -1,5 +1,5 @@
 
-AVRASM ver. 2.1.42  C:\Documents and Settings\alumno\Escritorio\2016_2c_primer_proyecto-rbourbonnavarro-master\Promedio\Promedio.asm Wed Sep 07 21:45:13 2016
+AVRASM ver. 2.1.42  E:\Rodrigo\Laboratorio-de-Microprocesadores\Promedio\Promedio.asm Tue Sep 13 00:52:55 2016
 
 
 EQU  SIGNATURE_000 0000001e
@@ -693,34 +693,12 @@ EQU  ACIaddr      0000002e
 EQU  TWIaddr      00000030
 EQU  SPMRaddr     00000032
 EQU  INT_VECTORS_SIZE 00000034
-CSEG carry        0000003a
-CSEG cont         0000003b
-CSEG carry2       00000040
-CSEG cont2        00000041
-CSEG carry3       00000046
-CSEG cont3        00000047
-CSEG carry4       0000004c
-CSEG cont4        0000004d
-CSEG carry5       00000052
-CSEG cont5        00000053
-CSEG carry6       00000058
-CSEG cont6        00000059
-CSEG carry7       0000005e
-CSEG cont7        0000005f
-CSEG carry8       00000064
-CSEG cont8        00000065
-CSEG carry9       0000006a
-CSEG cont9        0000006b
-CSEG carryA       00000070
-CSEG contA        00000071
-CSEG carryB       00000076
-CSEG contB        00000077
-CSEG carryC       0000007c
-CSEG contC        0000007d
-CSEG carryD       00000082
-CSEG contD        00000083
-CSEG carryE       00000088
-CSEG contE        00000089
-CSEG carryF       0000008e
-CSEG contF        0000008f
-CSEG asd          00000091
+EQU  CANT_DATOS   00000010
+CSEG DATOS        00000100
+CSEG PROMEDIAR    00000009
+CSEG FIN          00000008
+CSEG SUMAR        0000000e
+CSEG DIVIDIR      00000015
+CSEG L1           0000000e
+CSEG L2           00000012
+CSEG L3           00000016

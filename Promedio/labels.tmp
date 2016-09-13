@@ -1,54 +1,31 @@
 <ASSEMBLER_INFO>
  <VERSION>2.1.42</VERSION>
  <DEVICE>ATmega328P</DEVICE>
- <WORKING_DIR>C:\Documents and Settings\alumno\Escritorio\2016_2c_primer_proyecto-rbourbonnavarro-master\Promedio</WORKING_DIR>
+ <WORKING_DIR>E:\Rodrigo\Laboratorio-de-Microprocesadores\Promedio</WORKING_DIR>
  <INCLUDE_PATH>
-  <DIR>C:\Archivos de programa\Atmel\AVR Tools\AvrAssembler2\Appnotes</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler2\Appnotes</DIR>
  </INCLUDE_PATH>
- <SOURCE_FILE>C:\Documents and Settings\alumno\Escritorio\2016_2c_primer_proyecto-rbourbonnavarro-master\Promedio\Promedio.asm</SOURCE_FILE>
+ <SOURCE_FILE>E:\Rodrigo\Laboratorio-de-Microprocesadores\Promedio\Promedio.asm</SOURCE_FILE>
  <INCLUDED_FILES>
-  <FILE>C:\Archivos de programa\Atmel\AVR Tools\AvrAssembler2\Appnotes\M328PDEF.INC</FILE>
+  <FILE>C:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler2\Appnotes\M328PDEF.INC</FILE>
  </INCLUDED_FILES>
  <OBJECT_FILES>
-  <FILE>C:\Documents and Settings\alumno\Escritorio\2016_2c_primer_proyecto-rbourbonnavarro-master\Promedio\Promedio.obj</FILE>
+  <FILE>E:\Rodrigo\Laboratorio-de-Microprocesadores\Promedio\Promedio.obj</FILE>
  </OBJECT_FILES>
  <HEX_FILES>
-  <FILE>C:\Documents and Settings\alumno\Escritorio\2016_2c_primer_proyecto-rbourbonnavarro-master\Promedio\Promedio.hex</FILE>
+  <FILE>E:\Rodrigo\Laboratorio-de-Microprocesadores\Promedio\Promedio.hex</FILE>
  </HEX_FILES>
  <OUTPUT_FILES>
-  <FILE>C:\Documents and Settings\alumno\Escritorio\2016_2c_primer_proyecto-rbourbonnavarro-master\Promedio\Promedio.map</FILE>
+  <FILE>E:\Rodrigo\Laboratorio-de-Microprocesadores\Promedio\Promedio.map</FILE>
  </OUTPUT_FILES>
  <LABELS>
-  <carry><FILE>C:\Documents and Settings\alumno\Escritorio\2016_2c_primer_proyecto-rbourbonnavarro-master\Promedio\Promedio.asm</FILE><LINE>44</LINE></carry>
-  <cont><FILE>C:\Documents and Settings\alumno\Escritorio\2016_2c_primer_proyecto-rbourbonnavarro-master\Promedio\Promedio.asm</FILE><LINE>45</LINE></cont>
-  <carry2><FILE>C:\Documents and Settings\alumno\Escritorio\2016_2c_primer_proyecto-rbourbonnavarro-master\Promedio\Promedio.asm</FILE><LINE>50</LINE></carry2>
-  <cont2><FILE>C:\Documents and Settings\alumno\Escritorio\2016_2c_primer_proyecto-rbourbonnavarro-master\Promedio\Promedio.asm</FILE><LINE>51</LINE></cont2>
-  <carry3><FILE>C:\Documents and Settings\alumno\Escritorio\2016_2c_primer_proyecto-rbourbonnavarro-master\Promedio\Promedio.asm</FILE><LINE>56</LINE></carry3>
-  <cont3><FILE>C:\Documents and Settings\alumno\Escritorio\2016_2c_primer_proyecto-rbourbonnavarro-master\Promedio\Promedio.asm</FILE><LINE>57</LINE></cont3>
-  <carry4><FILE>C:\Documents and Settings\alumno\Escritorio\2016_2c_primer_proyecto-rbourbonnavarro-master\Promedio\Promedio.asm</FILE><LINE>62</LINE></carry4>
-  <cont4><FILE>C:\Documents and Settings\alumno\Escritorio\2016_2c_primer_proyecto-rbourbonnavarro-master\Promedio\Promedio.asm</FILE><LINE>63</LINE></cont4>
-  <carry5><FILE>C:\Documents and Settings\alumno\Escritorio\2016_2c_primer_proyecto-rbourbonnavarro-master\Promedio\Promedio.asm</FILE><LINE>68</LINE></carry5>
-  <cont5><FILE>C:\Documents and Settings\alumno\Escritorio\2016_2c_primer_proyecto-rbourbonnavarro-master\Promedio\Promedio.asm</FILE><LINE>69</LINE></cont5>
-  <carry6><FILE>C:\Documents and Settings\alumno\Escritorio\2016_2c_primer_proyecto-rbourbonnavarro-master\Promedio\Promedio.asm</FILE><LINE>74</LINE></carry6>
-  <cont6><FILE>C:\Documents and Settings\alumno\Escritorio\2016_2c_primer_proyecto-rbourbonnavarro-master\Promedio\Promedio.asm</FILE><LINE>75</LINE></cont6>
-  <carry7><FILE>C:\Documents and Settings\alumno\Escritorio\2016_2c_primer_proyecto-rbourbonnavarro-master\Promedio\Promedio.asm</FILE><LINE>80</LINE></carry7>
-  <cont7><FILE>C:\Documents and Settings\alumno\Escritorio\2016_2c_primer_proyecto-rbourbonnavarro-master\Promedio\Promedio.asm</FILE><LINE>81</LINE></cont7>
-  <carry8><FILE>C:\Documents and Settings\alumno\Escritorio\2016_2c_primer_proyecto-rbourbonnavarro-master\Promedio\Promedio.asm</FILE><LINE>86</LINE></carry8>
-  <cont8><FILE>C:\Documents and Settings\alumno\Escritorio\2016_2c_primer_proyecto-rbourbonnavarro-master\Promedio\Promedio.asm</FILE><LINE>87</LINE></cont8>
-  <carry9><FILE>C:\Documents and Settings\alumno\Escritorio\2016_2c_primer_proyecto-rbourbonnavarro-master\Promedio\Promedio.asm</FILE><LINE>92</LINE></carry9>
-  <cont9><FILE>C:\Documents and Settings\alumno\Escritorio\2016_2c_primer_proyecto-rbourbonnavarro-master\Promedio\Promedio.asm</FILE><LINE>93</LINE></cont9>
-  <carryA><FILE>C:\Documents and Settings\alumno\Escritorio\2016_2c_primer_proyecto-rbourbonnavarro-master\Promedio\Promedio.asm</FILE><LINE>98</LINE></carryA>
-  <contA><FILE>C:\Documents and Settings\alumno\Escritorio\2016_2c_primer_proyecto-rbourbonnavarro-master\Promedio\Promedio.asm</FILE><LINE>99</LINE></contA>
-  <carryB><FILE>C:\Documents and Settings\alumno\Escritorio\2016_2c_primer_proyecto-rbourbonnavarro-master\Promedio\Promedio.asm</FILE><LINE>104</LINE></carryB>
-  <contB><FILE>C:\Documents and Settings\alumno\Escritorio\2016_2c_primer_proyecto-rbourbonnavarro-master\Promedio\Promedio.asm</FILE><LINE>105</LINE></contB>
-  <carryC><FILE>C:\Documents and Settings\alumno\Escritorio\2016_2c_primer_proyecto-rbourbonnavarro-master\Promedio\Promedio.asm</FILE><LINE>110</LINE></carryC>
-  <contC><FILE>C:\Documents and Settings\alumno\Escritorio\2016_2c_primer_proyecto-rbourbonnavarro-master\Promedio\Promedio.asm</FILE><LINE>111</LINE></contC>
-  <carryD><FILE>C:\Documents and Settings\alumno\Escritorio\2016_2c_primer_proyecto-rbourbonnavarro-master\Promedio\Promedio.asm</FILE><LINE>116</LINE></carryD>
-  <contD><FILE>C:\Documents and Settings\alumno\Escritorio\2016_2c_primer_proyecto-rbourbonnavarro-master\Promedio\Promedio.asm</FILE><LINE>117</LINE></contD>
-  <carryE><FILE>C:\Documents and Settings\alumno\Escritorio\2016_2c_primer_proyecto-rbourbonnavarro-master\Promedio\Promedio.asm</FILE><LINE>122</LINE></carryE>
-  <contE><FILE>C:\Documents and Settings\alumno\Escritorio\2016_2c_primer_proyecto-rbourbonnavarro-master\Promedio\Promedio.asm</FILE><LINE>123</LINE></contE>
-  <carryF><FILE>C:\Documents and Settings\alumno\Escritorio\2016_2c_primer_proyecto-rbourbonnavarro-master\Promedio\Promedio.asm</FILE><LINE>128</LINE></carryF>
-  <contF><FILE>C:\Documents and Settings\alumno\Escritorio\2016_2c_primer_proyecto-rbourbonnavarro-master\Promedio\Promedio.asm</FILE><LINE>129</LINE></contF>
-  <asd><FILE>C:\Documents and Settings\alumno\Escritorio\2016_2c_primer_proyecto-rbourbonnavarro-master\Promedio\Promedio.asm</FILE><LINE>134</LINE></asd>
+  <DATOS><FILE>E:\Rodrigo\Laboratorio-de-Microprocesadores\Promedio\Promedio.asm</FILE><LINE>45</LINE></DATOS>
+  <PROMEDIAR><FILE>E:\Rodrigo\Laboratorio-de-Microprocesadores\Promedio\Promedio.asm</FILE><LINE>16</LINE></PROMEDIAR>
+  <FIN><FILE>E:\Rodrigo\Laboratorio-de-Microprocesadores\Promedio\Promedio.asm</FILE><LINE>13</LINE></FIN>
+  <SUMAR><FILE>E:\Rodrigo\Laboratorio-de-Microprocesadores\Promedio\Promedio.asm</FILE><LINE>21</LINE></SUMAR>
+  <DIVIDIR><FILE>E:\Rodrigo\Laboratorio-de-Microprocesadores\Promedio\Promedio.asm</FILE><LINE>30</LINE></DIVIDIR>
+  <L1><FILE>E:\Rodrigo\Laboratorio-de-Microprocesadores\Promedio\Promedio.asm</FILE><LINE>22</LINE></L1>
+  <L2><FILE>E:\Rodrigo\Laboratorio-de-Microprocesadores\Promedio\Promedio.asm</FILE><LINE>26</LINE></L2>
+  <L3><FILE>E:\Rodrigo\Laboratorio-de-Microprocesadores\Promedio\Promedio.asm</FILE><LINE>32</LINE></L3>
  </LABELS>
 </ASSEMBLER_INFO>
